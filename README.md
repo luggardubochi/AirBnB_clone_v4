@@ -83,4 +83,4 @@ def setUpClass(cls) - Set up for the doc tests
 
 |Luggard ubochi - Github / Twitter|
 
-|Austine Ngonga - [Github] (https://www.github.com/austineoduor)
+Austine Ngonga - [Github](https://github.com/austineoduor)
