@@ -77,4 +77,7 @@ def setUpClass(cls) - Set up for the doc tests
 # /test_models/state.py - Contains the TestStateDocs class:
 # /test_models/user.py - Contains the TestUserDocs class:
 # Authors
-Alexa Orrico - Github / Twitter Jennifer Huang - Github / Twitter Luggard ubochi - Github / Twitter Austine Ngonga - Github / Twitter
+|Alexa Orrico - Github / Twitter |
+|Jennifer Huang - Github / Twitter|
+|Luggard ubochi - Github / Twitter|
+|Austine Ngonga - https://www.github.com/austineoduor|
