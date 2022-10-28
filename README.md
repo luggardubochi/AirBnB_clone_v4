@@ -78,6 +78,9 @@ def setUpClass(cls) - Set up for the doc tests
 # /test_models/user.py - Contains the TestUserDocs class:
 # Authors
 |Alexa Orrico - Github / Twitter |
+
 |Jennifer Huang - Github / Twitter|
+
 |Luggard ubochi - Github / Twitter|
-|Austine Ngonga - https://www.github.com/austineoduor|
+
+|Austine Ngonga - [Github] (https://www.github.com/austineoduor)
